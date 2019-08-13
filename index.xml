@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carlos Lizama</title>
+    <link>https://clizama.github.io/</link>
+    <description>Recent content on Carlos Lizama</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Jul 2019 09:59:20 -0400</lastBuildDate>
+    
+	    <atom:link href="https://clizama.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sources of Lifetime Inequality Revisited (Job Market Paper)</title>
+      <link>https://clizama.github.io/publication/lti/</link>
+      <pubDate>Sun, 28 Jul 2019 09:59:20 -0400</pubDate>
+      
+      <guid>https://clizama.github.io/publication/lti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Avoiding Layoffs: On-the-job Search and Partial Insurance</title>
+      <link>https://clizama.github.io/publication/otjsi/</link>
+      <pubDate>Sat, 27 Jul 2019 09:59:20 -0400</pubDate>
+      
+      <guid>https://clizama.github.io/publication/otjsi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taxes, wealth inequality and mobility</title>
+      <link>https://clizama.github.io/publication/twim/</link>
+      <pubDate>Fri, 26 Jul 2019 09:59:20 -0400</pubDate>
+      
+      <guid>https://clizama.github.io/publication/twim/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
