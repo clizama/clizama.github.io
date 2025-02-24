@@ -54,3 +54,48 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+
+
+# cascade:
+#   - _target:
+#       path: /working_papers/**
+#     pager: false
+#     show_date: false
+#     editable: false
+#     reading_time: false
+#     commentable: false
+#     show_related: false
+#     show_breadcrumb: false
+#     share: false
+#     header:
+#       navbar:
+#         enable: false
+
+cascade:
+  - _target:
+      path: /working_papers/**
+    pager: false
+    show_date: false
+    editable: false
+    reading_time: false
+    commentable: false
+    show_related: false
+    show_breadcrumb: false
+    share: false
+    header:
+      navbar:
+        enable: false
+
+  - _target:
+      path: /publication/**
+    pager: false
+    show_date: false
+    editable: false
+    reading_time: false
+    commentable: false
+    show_related: false
+    show_breadcrumb: false
+    share: false
+    header:
+      navbar:
+        enable: false        

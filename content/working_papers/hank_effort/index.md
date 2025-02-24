@@ -1,5 +1,9 @@
 ---
 title: 'Conditional versus unconditional transfers in HANK'
+# reading_time: false
+# show_date: false
+# share: false
+# pager: false
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
