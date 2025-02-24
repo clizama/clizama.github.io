@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Head of Metodologies and Quantitative Analysis Group
+role: Head of Methodologies and Quantitative Analysis Group
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
